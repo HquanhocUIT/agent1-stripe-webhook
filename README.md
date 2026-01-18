@@ -21,8 +21,8 @@ Stripe Webhook -> API Gateway -> Lambda (Agent1)
 - `VALID Stripe webhook`
 - `NORMALIZED JSON: {...}`
 
-Screenshot:  
-![](docs/cloudwatch-valid-normalized.png)
+Screenshot: doc/img.png
+
 
 ## How it works
 
